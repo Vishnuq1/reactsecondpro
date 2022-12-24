@@ -5,7 +5,7 @@ import "./index.css"
 //const name="Vishnu";
 //const currDate = new Date().toLocaleDateString();
 //const currTime = new Date().toLocaleTimeString();
-let currTime=new Date(2020,5,5,15);
+let currTime=new Date();
 currTime = currTime.getHours();
 // const img1= " https,://picsum.photos/200/300";
 // const img2= " https://picsum.photos/200/300";
